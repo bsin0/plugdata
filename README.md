@@ -14,8 +14,9 @@ This is also an exercise for me to develop some experience in puredata,so the me
 
 Effects
 - audio input handler/gain
-- violin
 - compressor/limiter
+- violin
+- parametric eq
 - overdrive
 - chorus
 - phaser
