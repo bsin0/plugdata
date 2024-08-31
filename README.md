@@ -1,5 +1,7 @@
 # plugdata guitar effects module
 
+![image](https://github.com/user-attachments/assets/8e3b02c6-a629-4e8e-a50b-e8f1c44d0cfb)
+
 How to use:
 - Download the eguitar folder
 - open module.pd using plug data
@@ -12,8 +14,9 @@ This is also an exercise for me to develop some experience in puredata,so the me
 
 Effects
 - audio input handler/gain
-- violin
 - compressor/limiter
+- violin
+- parametric eq
 - overdrive
 - chorus
 - phaser
