@@ -1,11 +1,17 @@
 # plugdata guitar effects module
 
+How to use:
+- Download the eguitar folder
+- open module.pd using plug data
+- use the sample audio to test it
+
 Context:
 The motivation for this project is to create modular effects to replace an old electric guitar pedalboard and with a laptop digital effects unit.
 
 This is also an exercise for me to develop some experience in puredata,so the methodology may not result in the best/cleanest patches. My primary goal is to get something working first, then work on refinements for each module as I go. 
 
 Effects
+- audio input handler/gain
 - violin
 - compressor/limiter
 - overdrive
@@ -15,6 +21,7 @@ Effects
 - spectral delay 
 - reverb
 - convolution reverb
+- output volume
 
 Signal flow: guitar -> audio interface -> plugdata (laptop) -> mixer
 
