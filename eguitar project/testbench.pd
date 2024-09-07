@@ -1,7 +1,4 @@
 #N canvas 827 239 527 327 12;
-#X obj 73 299 eff-convolve;
-#A saved \\\$0-A 0 || \\\$0-B 0 || \\\$0-C 1 || \; \\\$0-A 1 || \\\$0-B 0 || \\\$0-C 1 || \; \\\$0-A 1 || \\\$0-B 3 || \\\$0-C 3.03238 || \; \\\$0-A 1 || \\\$0-B 7 || \\\$0-C 1 || \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \; -empty- \;;
 #X obj 73 69 eff-audiohandler;
 #X obj 73 618 output~;
-#X connect 0 0 2 0;
-#X connect 1 0 0 0;
+#X connect 0 0 1 0;
